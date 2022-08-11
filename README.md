@@ -1,1 +1,3 @@
 # MinisiteTemplate
+
+Site Template
